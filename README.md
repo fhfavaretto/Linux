@@ -11,8 +11,6 @@
 - [Aviso](#aviso)
 
 
-![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '`\w+`' | tr -d '`' | cowsay -W50](cowsay.png)
-
 Fluência na linha de comando é uma habilidade muitas vezes negligenciada ou considerada obsoleta, porém ela aumenta sua flexibilidade e produtividade como *desenvolvedor* de diversas maneiras, sutis ou não. Este texto descreve uma seleção de notas e dicas de uso da linha de comando que me parecem muito uteis, quando usando o Linux. Algumas dicas são elementares, e outras são mais específicas, sofisticadas ou obscuras. Esta página é curta, mas se você souber usar e lembrar todos os items que estão aqui, então você está mandando bem.
 
 Muito do que está aqui [originalmente](http://www.quora.com/What-are-some-lesser-known-but-useful-Unix-commands)
